@@ -11,3 +11,5 @@ spd++;
 image_angle = angle;
 
 show_message("clicado!")
+
+pontos++;
